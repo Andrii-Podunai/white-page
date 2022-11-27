@@ -1,0 +1,24 @@
+.thank {
+    margin-top: 100px;
+    margin-bottom: 90px;
+}
+.form__thank {
+    max-width: 521px;
+    width: 100%;
+    margin: 0 auto;
+}
+.thank__touch {
+    margin: 0 auto;
+    max-width: 521px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form__button-thank {
+    margin-bottom: 60px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ padding: 16px 54px;
+
+}

@@ -1,0 +1,265 @@
+@media (max-width: 1220px) {
+    .container {
+        max-width: 900px;
+    }
+
+.desctop {
+    margin-top: 100px;
+    flex-wrap: wrap-reverse;
+        justify-content: center;
+
+}
+.spaces {
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+
+.desctop__main {
+    text-align: center;
+    justify-content: center;
+}
+
+.desctop__img {
+    max-height: 850px;
+    height: 100%;
+    max-width: 960px;
+    width: 100%;
+}
+.desctop__programs-img {
+    margin: 0px 35px;
+}
+.desctop__apps {
+    max-width: 576px;
+    width: 100%;
+}
+.spaces__text {
+    max-width: 576px;
+    width: 100%;
+}
+.spaces__img{
+    max-height: 850px;
+    height: 100%;
+    max-width: 960px;
+    width: 100%;
+}
+.spaces__text-title {
+    font-size: 28px;
+}
+.spaces__text {
+    margin-top: 80px;
+}
+.offices__block {
+    flex-wrap: wrap;
+}
+}
+
+@media (max-width: 910px) {
+    .download__table {
+        padding-top: 40px;
+    }
+    .spaces {
+        margin-top: 10px;
+    }
+    .politic__title {
+        margin-bottom: 12px;
+    }
+    .form {
+    width: 350px;
+}
+    .form__thank, .thank__touch{
+        max-width: 343px;
+    }
+    .thank__touch-delete {
+        display: none;
+    }
+    .thank__users-title{
+        font-size: 32px;
+    }
+    .thank__users-block{
+        font-size: 32px;
+    }
+    .thank__users-title {
+        padding-top: 76px;
+    }
+    .desctop {
+        margin-top: 80px;
+    }
+    .main__inner {
+        margin-top: 50px;
+    }
+    .container {
+        max-width: 600px;
+    }
+    .main__inner-form {
+        display: none;
+    }
+    .desctop__img {
+        max-height: 450px;
+    }
+    .desctop__programs-img {
+        margin: 0px 11px;
+    }
+    .header__nav-ul {
+        display: none;
+    }
+    .careers__block {
+        flex-wrap: wrap;
+    }
+    .inner_image {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .career__title {
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 610px){
+    .download__table-text {
+        padding: 15px 130px;
+    }
+    .main__inner-title {
+    font-size: 2.3rem;
+    }
+    .careers__inner-title {
+        font-size: 2.75rem;
+    }
+    .download__table {
+    padding: 30px 35px;
+    }
+    .container {
+    max-width: 500px;
+    }
+    .download__table-title{
+            font-size: 1.875rem;
+    }
+    .download__table {
+        max-height: 232px;
+        height: 100%;
+    }
+    .footer {
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: center;
+    }
+    .footer__nav-ul {
+        margin-bottom: 30px;
+        display: flex;
+        gap: 20px;
+    }
+    .team {
+        flex-wrap: wrap;
+        gap: 50px;
+    }
+    .about__inner-img {
+        flex-wrap: wrap;
+    }
+    .thank__users-block {
+        gap: 60px;
+    }
+}
+
+@media (max-width: 453px){
+    .thank__users-title {
+        padding-top: 61px;
+        font-size: 30px;
+    }
+    .thank__users-block {
+        font-size: 28px;
+    gap: 50px;
+}
+}
+@media (max-width: 510px) {
+    .thank__users-block {
+        flex-wrap: wrap;
+    }
+    .container {
+    max-width: 400px;
+}
+.download__table-text {
+    padding: 15px 122px;
+}
+.desctop__img {
+    max-height: 350px;
+}
+}
+@media (max-width: 410px) {
+.footer__link {
+    text-align:center;
+}
+    .thank__users{
+      min-height: 320px;  
+    }
+    .career__title{
+        text-align: start;
+    }
+    .careers__inner-title{
+        font-size: 2.25rem;
+    }
+    .inner_image {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .office__img {
+        width: 310px;
+    }
+    .container {
+        max-width: 300px;
+    }
+    .download__table-text {
+    padding: 15px 62px;
+    }
+    .spaces {
+        margin-top: 80px;
+    }
+    .main__inner {
+        margin-top: 0;
+    }
+.footer__nav-ul {
+    display: block;
+}
+.desctop__img {
+    max-height: 250px;
+}
+.desctop__programs {
+    gap: 28px;
+}
+.download__table {
+    margin-top: 100px;
+}
+.spaces {
+    margin-top: 0;
+}
+}
+@media (max-width: 350px){
+    .footer__form-elem{
+        flex-wrap: wrap;
+    }
+    .form__elem-catalog {
+        display: none;
+    }
+}
+
+@media (max-width: 392px){
+    .main__inner-title {
+        font-size: 2rem;
+    }
+    .thank__users{
+    height: 362px;
+ }
+ .thank__users-title {
+    padding-top: 42px;
+ }
+ .form__name, .form__email, .form__message {
+    width: 280px;
+ }
+
+ .form__thank, .thank__touch {
+    text-align: center;
+justify-content: center;
+ }
+}
