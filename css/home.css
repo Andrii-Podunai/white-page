@@ -214,4 +214,13 @@ width: 100%;
 }
 .footer__nav-ul {
     padding: 0;
+    list-style: none;
+}
+
+.footer__nav-link {
+    text-decoration: none;
+    color: black;
+}
+.footer__nav-ul  li {
+    margin-top: 17px;
 }
